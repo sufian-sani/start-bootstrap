@@ -1,0 +1,81 @@
+/*nav bar*/
+nav{
+    background-color: #2C3E50;
+}
+.logo h3{
+    font-weight: 700;
+}
+.logo ul li a{
+    color: #fff !important;
+    font-weight: 700;
+    font-size: 18px;
+}
+
+/*Header section*/
+header{
+    background-color: #1ABC9C;
+}
+header img{
+    width: 24%;
+}
+header h1{
+    font-weight: 700 !important;
+}
+.buttom_p{
+    font-weight: 400 !important;
+}
+.icon span{
+    width: 10%;
+    height: 5px;
+}
+.icon i svg{
+    width: 30px;
+}
+/*Galeary Section*/
+#galeary h1{
+     font-size: 48px;
+     font-weight: 700 !important;
+}
+.galeary_icon span{
+    width: 10%;
+    height: 5px;
+}
+.galeary_icon i svg{
+    width: 30px;
+}
+/*about us*/
+#about{
+    background-color: #1ABC9C;
+}
+.about_header h1{
+    font-weight: 700 !important;
+}
+#about p{
+     font-weight: 400 !important;
+}
+#about a{
+    border: 2px solid;
+}
+#about a:hover{
+    border: 2px solid #fff;
+}
+#about svg{
+    width: 25px;
+}
+/*contact*/
+#contact h1{
+    font-size: 48px;
+    font-weight: 700 !important;
+}
+.form-group{
+    border-bottom: 2px solid #E9ECEF !important;
+}
+.form-group:last-child{
+    border-bottom: none !important;
+}
+.form-group input,.form-group textarea{
+    font-size: 25px;
+}
+
+
+
